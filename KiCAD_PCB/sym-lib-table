@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FTDIMODULE)(type Legacy)(uri ${KIPRJMOD}/FTDIMODULE.lib)(options "")(descr ""))
+)
